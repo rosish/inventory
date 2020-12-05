@@ -2,4 +2,3 @@ github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
 github.com/rosish/goModuleTest v0.0.0-20201204165957-0f6a9cf7476f h1:w0I0p864pQsFUWRd3dWjTnB140hVh5BZigW/4gMxeQo=
 github.com/rosish/goModuleTest v0.0.0-20201204165957-0f6a9cf7476f/go.mod h1:5RlEJlFL2VlpQBTg27T0k9YeCqAvZEqok5m7QqtItU4=
-github.com/rosish/inventory v0.0.0-20201205043656-8da94820d026 h1:n96esoftP7Zmo+rDP2y4FGDDeB1E/VmdBhvODz8CixA=
