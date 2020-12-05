@@ -1,7 +1,7 @@
 package bmcClient
 
-func FetchInventory() string{
-	inv := "Here is the inventory!"
+func FetchLiveInventory() string{
+	inv := "Here is the on demand inventory data!"
 	return inv
 }
 

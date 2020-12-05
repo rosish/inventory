@@ -2,7 +2,7 @@ package service
 
 import (
     "github.com/gorilla/mux"
-    "github.com/rosish/inventory/InventoryAccess/internal/urls"
+    "github.com/rosish/inventory/internal/urls"
     "log"
     "net/http"
 )
