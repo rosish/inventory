@@ -2,7 +2,7 @@ package service
 
 import (
 	"github.com/rosish/goModuleTest/pkg/logger"
-	"github.com/rosish/inventory/InventoryIngestor/pkg/bmcClient"
+	"inventory/InventoryIngestor/pkg/bmcClient"
 	"inventory/db/cmd/pkg/manager"
 	"net/http"
 
