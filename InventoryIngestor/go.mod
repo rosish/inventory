@@ -1,4 +1,4 @@
-module github.com/rosish/inventory/InventoryIngestor
+module /inventory/InventoryIngestor
 
 go 1.14
 
